@@ -3,6 +3,15 @@ A Long URL to Shorten URL
 
 # project setup
 - npm install
+- setup postgres database
+  
+  ```
+    const pool = new Pool({
+    user: USER_NAME,
+    host: HOST_NAME,
+    database: DATABASE_NAME,
+    port: PORT,
+  }};
 - run command : node app.js
 
 # packages
