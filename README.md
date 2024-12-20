@@ -2,7 +2,8 @@
 A Long URL to Shorten URL
 
 # project setup
-npm install
+- npm install
+- run command : node app.js
 
 # packages
 - shortid for shorten url
