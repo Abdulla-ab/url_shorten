@@ -1,4 +1,4 @@
-# url_shorten
+# URL Shortener
 A Long URL to Shorten URL
 
 # project setup
