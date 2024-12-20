@@ -5,8 +5,10 @@ A Long URL to Shorten URL
 npm install
 
 # packages
--- shortid for shorten url
--- redis
+- shortid for shorten url
+- redis
+- swagger
+- jest
 
 # swagger
 http://localhost:[PORT]/api-docs
